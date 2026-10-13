@@ -1,0 +1,99 @@
+1
+00:00:01,200 --> 00:00:07,439
+這是頭家夥伴：一個會自己看數據、主動找問題的車隊 AI 顧問。
+Meet Boss Buddy: a fleet AI advisor that reads the data and finds problems on its own.
+
+2
+00:00:09,329 --> 00:00:17,046
+王老闆有 5 台 HINO 貨車，每個月油錢大約 19 萬元。
+Mr. Wang runs five HINO trucks. His fuel bill is about 190,000 NT dollars a month.
+
+3
+00:00:17,136 --> 00:00:22,936
+他沒空看報表。AI 每天晚上自己檢查車隊數據。
+He has no time for reports. So every night, the AI checks his fleet data by itself.
+
+4
+00:00:24,026 --> 00:00:32,717
+固定規則先篩出異常：ABC-6776 每天怠速 6.1 小時，同型車平均只有 2.3 小時。
+Simple rules flag it first: truck 6776 idles 6.1 hours a day. Similar trucks average 2.3.
+
+5
+00:00:32,807 --> 00:00:40,994
+調查員 AI 接著查：怠速集中在萬華一帶同一個停靠點，每次 5 到 8 小時沒熄火。
+An investigator agent digs in: the idling happens at one stop in Wanhua, five to eight hours at a time, engine running.
+
+6
+00:00:41,084 --> 00:00:46,757
+換算每個月多花約 3,000 元，AI 主動傳 LINE 給王老闆。
+That's about 3,000 dollars a month. The AI messages Mr. Wang on LINE.
+
+7
+00:00:49,047 --> 00:00:54,427
+王老闆回：那是冷凍車，停著也要開冷凍機，不能熄火。
+Mr. Wang pushes back: it's a refrigerated truck. The engine has to stay on.
+
+8
+00:00:54,517 --> 00:00:59,424
+AI 把「冷凍機必須運轉」當成限制條件，重新拆解這段怠速。
+The AI takes that as a hard constraint, and breaks the idle time down again.
+
+9
+00:00:59,514 --> 00:01:06,926
+數據分不出多少時間是在排隊等卸貨，所以 AI 設計了兩週的對照實驗。
+The data can't tell how much of it is just waiting in line to unload. So the AI designs a two-week experiment.
+
+10
+00:01:07,016 --> 00:01:13,330
+它也算給老闆看：如果冷凍機能插電待機，每月最多可省約 100 公升。
+It also runs the numbers: plugging the reefer into shore power could save up to 100 liters a month.
+
+11
+00:01:15,420 --> 00:01:21,393
+每週，AI 會不帶預設規則，自己在數據裡找新問題。
+Every week, the AI also explores the data with no preset rules, looking for new problems.
+
+12
+00:01:21,483 --> 00:01:29,556
+它先懷疑 ABC-5310 被偷油：油量讀數 1 分鐘從 55% 掉到 25%。
+It first suspects fuel theft on truck 5310: the gauge fell from 55 to 25 percent in a minute.
+
+13
+00:01:29,646 --> 00:01:36,640
+但反駁者發現讀數馬上跳回，同期只用了 2 公升油。是感測器跳動，不打擾老闆。
+But a skeptic agent sees it jump right back, with only 2 liters burned. Sensor noise, so no false alarm.
+
+14
+00:01:36,730 --> 00:01:45,893
+真正的發現在 ABC-7610：濾煙器（DPF）故障碼 3 月開始出現，11 月越來越頻繁。
+The real finding is truck 7610: its diesel particulate filter codes started in March, and are getting more frequent in November.
+
+15
+00:01:45,983 --> 00:01:51,662
+AI 建議兩週內進 HINO 服務廠，在拋錨之前處理。
+The AI suggests a HINO service visit within two weeks, before it breaks down on the road.
+
+16
+00:01:54,152 --> 00:02:01,054
+兩週後實驗結果（示意）：晚一小時到場，每次少怠速將近 2 小時。
+Two weeks later, the result, illustrative: arriving an hour later cuts nearly two hours of idling per stop.
+
+17
+00:02:01,144 --> 00:02:07,669
+月底結算以匿名同型車為對照，扣掉季節與路況影響，並按保守下限計費。
+At month end, savings are measured against anonymous peer trucks, and billed at the conservative lower bound.
+
+18
+00:02:07,759 --> 00:02:13,519
+王老闆這個月淨省約 6,500 元。沒省到，就不收錢。
+Mr. Wang keeps about 6,500 dollars this month. No savings, no fee.
+
+19
+00:02:16,009 --> 00:02:22,217
+頭家夥伴：自己找問題、聽得懂限制，省下來才收費。
+Boss Buddy finds problems on its own, respects real constraints, and only gets paid when you save.
+
+20
+00:02:22,307 --> 00:02:25,750
+下一階段，同一套引擎會用在行車安全。
+Next, the same engine moves on to driving safety.
