@@ -19,3 +19,6 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# 簡報檔（作品提交前不公開）
+簡報/
